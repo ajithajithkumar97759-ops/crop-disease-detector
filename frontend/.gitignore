@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+venv/
+__pycache__/
+*.h5
+*.hdf5
+*.pt
+*.pth
+dataset/
+
+# Node
+node_modules/
+
+# Model files (large)
+model/
+
+# uploads
+static/uploads/
+
+# OS files
+.DS_Store
